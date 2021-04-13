@@ -1,2 +1,2 @@
 # codingsamples
-These are scripts from two games I am working on. I chose the scripts I spent the most time on or am most proud of.
+This repo is for samples of code that I am particularly proud of.
